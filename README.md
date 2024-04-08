@@ -1,4 +1,4 @@
-# Data-_pipeline
+# Data-_pipelines
 ## Extract the data 
 I have used Kaggle as a data sourse
 https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023
