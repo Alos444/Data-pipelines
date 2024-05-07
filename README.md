@@ -1,4 +1,4 @@
-# Data-_pipelines
+# Data-pipelines
 ## Extract the data 
 I have used Kaggle as a data sourse
 https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023
@@ -31,7 +31,7 @@ After cleaning  all the datasets I can group datasets into three categories base
 3. Examining Generosity Scores
 4. Assessing Freedom to make Life Choices Scores
  
-I conducted a n analysis of countries using data of happiness score, life expectancy, air quality, gdp per capita, unemployment data. By using these indicators i focused to identify the countries with the highest hapiness scores, longest life expectances and strongest GDP per capita.  
+I conducted an analysis of countries using data of happiness score, life expectancy, air quality, gdp per capita, unemployment data. By using these indicators i focused to identify the countries with the highest hapiness scores, longest life expectances and strongest GDP per capita.  
 
 
    
