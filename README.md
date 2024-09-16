@@ -30,6 +30,8 @@ After cleaning  all the datasets I can group datasets into three categories base
 2. Analyzing Social Support Scores
 3. Examining Generosity Scores
 4. Assessing Freedom to make Life Choices Scores
+   
+![Analysis](DP.PNG)
  
 I conducted an analysis of countries using data of happiness score, life expectancy, air quality, gdp per capita, unemployment data. By using these indicators i focused to identify the countries with the highest hapiness scores, longest life expectances and strongest GDP per capita.  
 
